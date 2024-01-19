@@ -1,6 +1,12 @@
 [package]
+authors = ["2A5F <u2a5f@outlook.com>"]
+categories = ["rust-patterns", "rendering::data-formats"]
+description = "Convert floating point and integer numbers into bytes and put them into an array"
 edition = "2021"
+license = "MIT"
 name = "fi2b"
+readme = "../README.md"
+repository = "https://github.com/2A5F/fi2b"
 version = "1.0.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
